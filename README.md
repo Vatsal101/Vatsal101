@@ -7,11 +7,11 @@ Hi my name is Vatsal Dwivedi
 -📫 How to reach me vatsal.dwivedi27@gmail.com
 
 Want to learn more about me?
--Visit my blog [here](https://thecybervatsal.wordpress.com/)
+- Visit my blog [here](https://thecybervatsal.wordpress.com/)
 
 
 Want to see some Winning Projects?
--Check out my [Devpost account](https://devpost.com/vatsal123crazy) where I participate in hackathons alongside my close friends
+- Check out my [Devpost account](https://devpost.com/vatsal123crazy) where I participate in hackathons alongside my close friends
 
 <!---
 Vatsal101/Vatsal101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
