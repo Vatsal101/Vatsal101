@@ -6,10 +6,6 @@ Hi my name is Vatsal Dwivedi
 
 -📫 How to reach me vatsal.dwivedi27@gmail.com
 
-Want to learn more about me?
-- Visit my blog [here](https://thecybervatsal.wordpress.com/)
-
-
 Want to see some Winning Projects?
 - Check out my [Devpost account](https://devpost.com/vatsal123crazy) where I participate in hackathons alongside my close friends
 
